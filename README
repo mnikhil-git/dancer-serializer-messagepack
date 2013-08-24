@@ -7,7 +7,7 @@ VERSION
 
 SYNOPSIS
         # in your Dancer app:
-        setting serializer => 'MessagePack';
+        set serializer => 'MessagePack';
 
         # or in your Dancer config file:
         serializer: 'MessagePack'
