@@ -1,0 +1,13 @@
+Build.PL
+Changes
+dist.ini
+lib/Dancer/Serializer/MessagePack.pm
+LICENSE
+Makefile.PL
+MANIFEST
+README
+t/00-compile.t
+t/author-critic.t
+t/core.t
+t/release-pod-coverage.t
+t/release-pod-syntax.t
